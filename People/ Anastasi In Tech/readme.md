@@ -1,0 +1,1 @@
+- [NVIDIA's GPU Boom Explained. Are There Any Worthy Alternatives? Tesla, Cerebras, AMD](https://youtu.be/oREXJ4va3F4)
